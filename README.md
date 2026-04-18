@@ -165,40 +165,33 @@ This lab placed heavy emphasis on security-relevant incident handling to bridge 
 servicenow-itsm-lab/
 ├── README.md
 ├── dashboard/
-│   └── ITSM_Dashboard.png
-├── configuration/
+│   └── itsm-dashboard.png
+├── configuratiuon/
 │   ├── day1-fresh-instance.png
+│   ├── day1-fresh-groups.png
 │   ├── day1-groups-configured.png
 │   ├── day1-sla-definitions.png
-│   └── kb-articles-complete.png
-├── tickets/
-│   ├── phase1-general-it/
-│   │   ├── ticket-01-resolved.png
-│   │   ├── ticket-02-resolved.png
-│   │   ├── ticket-03-resolved.png
-│   │   └── ticket-08-resolved.png
-│   ├── phase2-network-infrastructure/
-│   │   ├── ticket-09-resolved.png
-│   │   ├── ticket-11-resolved.png
-│   │   └── ticket-14-resolved.png
-│   ├── phase3-security/
-│   │   ├── ticket-15-resolved.png
-│   │   ├── ticket-16-resolved.png
-│   │   ├── ticket-17-resolved.png
-│   │   ├── ticket-18-resolved.png
-│   │   ├── ticket-19-resolved.png
-│   │   └── ticket-20-resolved.png
-│   └── phase4-escalation-change/
-│       ├── ticket-21-resolved.png
-│       ├── ticket-23-resolved.png
-│       └── ticket-24-resolved.png
-└── reports/
-    ├── incidents-by-category.png
-    ├── incidents-by-priority.png
-    ├── incidents-by-assignment-group.png
-    ├── incidents-by-state.png
-    ├── total-resolved-incidents.png
-    └── all-resolved-incidents.png
+│   └── day2-knowledge-base-articles-complete.png
+├── phase1-general-it/
+│   ├── ticket-01-resolved.png
+│   ├── ticket-02-resolved.png
+│   ├── ticket-03-resolved.png
+│   └── ticket-08-resolved.png
+├── phase2-network-infrastructure/
+│   ├── ticket-09-resolved.png
+│   ├── ticket-11-resolved.png
+│   └── ticket-14-resolved.png
+├── phase3-security/
+│   ├── ticket-15-resolved.png
+│   ├── ticket-16-resolved.png
+│   ├── ticket-17-resolved.png
+│   ├── ticket-18-resolved.png
+│   ├── ticket-19-resolved.png
+│   └── ticket-20-resolved.png
+└── phase4-escalation-change/
+    ├── ticket-21-resolved.png
+    ├── ticket-23-resolved.png
+    └── ticket-24-resolved.png
 ```
 
 ---
