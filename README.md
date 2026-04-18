@@ -10,7 +10,7 @@
 |--------|-------|
 | **Platform** | ServiceNow PDI (dev383581.service-now.com) |
 | **Modules Used** | Incident Management, Problem Management, Change Management, Knowledge Base, SLA Management, Platform Analytics |
-| **Total Tickets** | 16 resolved incidents |
+| **Total Tickets** | 17 resolved incidents |
 | **Priority Range** | P1 Critical through P4 Low |
 | **Security Incidents** | 6 (including 3 P1 Criticals) |
 | **Duration** | April 2026 |
