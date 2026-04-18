@@ -19,7 +19,7 @@
 
 ## 🖥️ Dashboard
 
-![ITSM Analytics Dashboard](dashboard/ITSM_Dashboard.png)
+![ITSM Analytics Dashboard](dashboard/itsm-dashboard.png)
 
 ---
 
